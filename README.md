@@ -57,12 +57,12 @@ The data is down loaded and unzipped in the project directory.
 The script:  
 1. loads labels and activityList into tables.  
 2. Train data is loaded into tables.  
-  a. Labels are given to this train data.  
-  b. Activities (with names) and Subject columns are added to the beginning 
+  * Labels are given to this train data.  
+  * Activities (with names) and Subject columns are added to the beginning 
 	of the training data table.  
-  c. Remove undesired columns/variables.  A reg script is used to select only
+  * Remove undesired columns/variables.  A reg script is used to select only
 	Variables with mean() and std() in the variable name. (1.) (2.)  
-  d. For testing and verification purposes,  intermediary data was used.  
+  * For testing and verification purposes,  intermediary data was used.  
 	The script removes some of this data after the Test data is processed
 	to free memeory.  
 	
