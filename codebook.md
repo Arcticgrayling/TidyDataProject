@@ -5,19 +5,13 @@ Variables
 ---------
 
 
-*  Activity 
+*  Activity  
 	In the original data the values are integers 1-6
 	In the data file produced by the scrip, the values are one of: 
 	"WALKING","WALKING_UPSTAIRS","WALKING_DOWNSTAIRS","SITTING","STANDING","LAYING"
 
-*  Subject 
+*  Subject  
 	integer 1-30
-
-*  Activity    
-   a number - the mean value of this variable grouped by Activity and Subject 
-
-*  Subject    
-   a number - the mean value of this variable grouped by Activity and Subject 
 
 *  tBodyAcc-mean()-X    
    a number - the mean value of this variable grouped by Activity and Subject 
