@@ -23,16 +23,16 @@ It is assumed the file is downloaded and unzipped in the same directory as the s
 Unzip will produce a directory: "UCI HAR Dataset" with the data.
 
 ####Data from the following files is used:  
-* activity_labels.txt  
-* features.txt  
-(from the test directory)  
-* subject_test.txt  
-* X_test.txt  
-* y_test.txt  
-(from the train directory)
-* subject_train.txt
-* X_train.txt  
-* y_train.txt  
+  * activity_labels.txt  
+  * features.txt  
+* From the test directory    
+  * subject_test.txt  
+  * X_test.txt  
+  * y_test.txt  
+* From the train directory
+  * subject_train.txt
+  * X_train.txt  
+  * y_train.txt  
 
 ##Script:  
 
