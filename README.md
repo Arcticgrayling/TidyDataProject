@@ -55,8 +55,8 @@ of Subject and Activity grouping.
 
 The data is down loaded and unzipped in the project directory.
 The script:  
-1. loads labels and activityList into tables.  
-2. Train data is loaded into tables.  
+1. Loads labels and activityList into tables.  
+2. Loads train data into tables.  
   * Labels are given to this train data.  
   * Activities (with names) and Subject columns are added to the beginning 
 	of the training data table.  
@@ -65,17 +65,14 @@ The script:
   * For testing and verification purposes,  intermediary data was used.  
 	The script removes some of this data after the Test data is processed
 	to free memeory.  
-	
-3. Test data is loaded into tables.
-	A. Labels are given to this test data. 
-	B. Activities (with names) and Subject columns are added to the beginning 
-	of the test data table.  
-	C. Remove undesired columns/variables.  A reg script is used to select only
+3. Loads test data into tables.
+  * Labels are given to this test data. 
+  * Activities (with names) and Subject columns are added to the beginning 
+  of the test data table.  
+  * Remove undesired columns/variables.  A reg script is used to select only
 	Variables with mean() and std() in the variable name.     
-
 4.	The Test and and Train data are merged.  They have been cleaned identically so 
 	they merge correctly.  
-
 5.	The complete data is processed so each variable is grouped by Activity and Subject
 	and the mean calculated.  "group_by" and "summarize_each" were used to perform this
 	because of the intuitive language of the functions.  
