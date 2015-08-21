@@ -13,201 +13,207 @@ Variables
 *  Subject 
 	integer 1-30
 
-*  tBodyAcc-mean()-X 
+*  Activity    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  tBodyAcc-mean()-Y 
+*  Subject    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  tBodyAcc-mean()-Z 
+*  tBodyAcc-mean()-X    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  tBodyAcc-std()-X 
+*  tBodyAcc-mean()-Y    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  tBodyAcc-std()-Y 
+*  tBodyAcc-mean()-Z    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  tBodyAcc-std()-Z 
+*  tBodyAcc-std()-X    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  tGravityAcc-mean()-X 
+*  tBodyAcc-std()-Y    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  tGravityAcc-mean()-Y 
+*  tBodyAcc-std()-Z    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  tGravityAcc-mean()-Z 
+*  tGravityAcc-mean()-X    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  tGravityAcc-std()-X 
+*  tGravityAcc-mean()-Y    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  tGravityAcc-std()-Y 
+*  tGravityAcc-mean()-Z    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  tGravityAcc-std()-Z 
+*  tGravityAcc-std()-X    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  tBodyAccJerk-mean()-X 
+*  tGravityAcc-std()-Y    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  tBodyAccJerk-mean()-Y 
+*  tGravityAcc-std()-Z    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  tBodyAccJerk-mean()-Z 
+*  tBodyAccJerk-mean()-X    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  tBodyAccJerk-std()-X 
+*  tBodyAccJerk-mean()-Y    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  tBodyAccJerk-std()-Y 
+*  tBodyAccJerk-mean()-Z    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  tBodyAccJerk-std()-Z 
+*  tBodyAccJerk-std()-X    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  tBodyGyro-mean()-X 
+*  tBodyAccJerk-std()-Y    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  tBodyGyro-mean()-Y 
+*  tBodyAccJerk-std()-Z    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  tBodyGyro-mean()-Z 
+*  tBodyGyro-mean()-X    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  tBodyGyro-std()-X 
+*  tBodyGyro-mean()-Y    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  tBodyGyro-std()-Y 
+*  tBodyGyro-mean()-Z    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  tBodyGyro-std()-Z 
+*  tBodyGyro-std()-X    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  tBodyGyroJerk-mean()-X 
+*  tBodyGyro-std()-Y    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  tBodyGyroJerk-mean()-Y 
+*  tBodyGyro-std()-Z    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  tBodyGyroJerk-mean()-Z 
+*  tBodyGyroJerk-mean()-X    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  tBodyGyroJerk-std()-X 
+*  tBodyGyroJerk-mean()-Y    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  tBodyGyroJerk-std()-Y 
+*  tBodyGyroJerk-mean()-Z    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  tBodyGyroJerk-std()-Z 
+*  tBodyGyroJerk-std()-X    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  tBodyAccMag-mean() 
+*  tBodyGyroJerk-std()-Y    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  tBodyAccMag-std() 
+*  tBodyGyroJerk-std()-Z    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  tGravityAccMag-mean() 
+*  tBodyAccMag-mean()    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  tGravityAccMag-std() 
+*  tBodyAccMag-std()    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  tBodyAccJerkMag-mean() 
+*  tGravityAccMag-mean()    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  tBodyAccJerkMag-std() 
+*  tGravityAccMag-std()    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  tBodyGyroMag-mean() 
+*  tBodyAccJerkMag-mean()    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  tBodyGyroMag-std() 
+*  tBodyAccJerkMag-std()    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  tBodyGyroJerkMag-mean() 
+*  tBodyGyroMag-mean()    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  tBodyGyroJerkMag-std() 
+*  tBodyGyroMag-std()    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  fBodyAcc-mean()-X 
+*  tBodyGyroJerkMag-mean()    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  fBodyAcc-mean()-Y 
+*  tBodyGyroJerkMag-std()    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  fBodyAcc-mean()-Z 
+*  fBodyAcc-mean()-X    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  fBodyAcc-std()-X 
+*  fBodyAcc-mean()-Y    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  fBodyAcc-std()-Y 
+*  fBodyAcc-mean()-Z    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  fBodyAcc-std()-Z 
+*  fBodyAcc-std()-X    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  fBodyAccJerk-mean()-X 
+*  fBodyAcc-std()-Y    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  fBodyAccJerk-mean()-Y 
+*  fBodyAcc-std()-Z    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  fBodyAccJerk-mean()-Z 
+*  fBodyAccJerk-mean()-X    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  fBodyAccJerk-std()-X 
+*  fBodyAccJerk-mean()-Y    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  fBodyAccJerk-std()-Y 
+*  fBodyAccJerk-mean()-Z    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  fBodyAccJerk-std()-Z 
+*  fBodyAccJerk-std()-X    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  fBodyGyro-mean()-X 
+*  fBodyAccJerk-std()-Y    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  fBodyGyro-mean()-Y 
+*  fBodyAccJerk-std()-Z    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  fBodyGyro-mean()-Z 
+*  fBodyGyro-mean()-X    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  fBodyGyro-std()-X 
+*  fBodyGyro-mean()-Y    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  fBodyGyro-std()-Y 
+*  fBodyGyro-mean()-Z    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  fBodyGyro-std()-Z 
+*  fBodyGyro-std()-X    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  fBodyAccMag-mean() 
+*  fBodyGyro-std()-Y    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  fBodyAccMag-std() 
+*  fBodyGyro-std()-Z    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  fBodyBodyAccJerkMag-mean() 
+*  fBodyAccMag-mean()    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  fBodyBodyAccJerkMag-std() 
+*  fBodyAccMag-std()    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  fBodyBodyGyroMag-mean() 
+*  fBodyBodyAccJerkMag-mean()    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  fBodyBodyGyroMag-std() 
+*  fBodyBodyAccJerkMag-std()    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  fBodyBodyGyroJerkMag-mean() 
+*  fBodyBodyGyroMag-mean()    
    a number - the mean value of this variable grouped by Activity and Subject 
 
-*  fBodyBodyGyroJerkMag-std() 
+*  fBodyBodyGyroMag-std()    
+   a number - the mean value of this variable grouped by Activity and Subject 
+
+*  fBodyBodyGyroJerkMag-mean()    
+   a number - the mean value of this variable grouped by Activity and Subject 
+
+*  fBodyBodyGyroJerkMag-std()    
    a number - the mean value of this variable grouped by Activity and Subject 
 
